@@ -32,4 +32,7 @@ This project demonstrates how to test a Student Management System (SMS)using JUn
 2. Import into your Java IDE
 3. Run tests using JUnit (right-click → Run with JUnit)
 
+   <img width="1324" height="668" alt="Screenshot 2025-09-29 163945" src="https://github.com/user-attachments/assets/7d94ff05-8f9e-429e-87f4-28056857fb97" />
+
+
 
